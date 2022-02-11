@@ -1,6 +1,6 @@
 - 👋 Hi, I’m CLMilkshake
 - 👀 I’m interested in Coding / Gaming
-- 🌱 I’m currently learning HDML/CSS and Java
+- 🌱 I’m currently learning Java and C# while making a game with my friend
 
 <!---
 CLMilkshake/CLMilkshake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
