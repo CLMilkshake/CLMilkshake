@@ -1,8 +1,1 @@
-- 👋 Hi, I’m CLMilkshake
-- 👀 I’m interested in Coding / Gaming
-- 🌱 I’m currently learning Java and C# while making a game with my friend
-
-<!---
-CLMilkshake/CLMilkshake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Lol if you're here looking at my profile cause you saw me in a CS2 match, what are you doing with your life? It's a game. No need to Google how to look up any username and try to find anything on your opponents. 
